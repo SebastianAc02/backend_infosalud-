@@ -10,14 +10,13 @@
 
 ## Índice
 
-1. [Autenticación](https://www.perplexity.ai/search/actua-como-arquitecto-de-softw-u1j2YV6JTxieMapmlrSE0A#autenticaci%C3%B3n)
-2. [Gestión de Pacientes](https://www.perplexity.ai/search/actua-como-arquitecto-de-softw-u1j2YV6JTxieMapmlrSE0A#gesti%C3%B3n-de-pacientes)
-3. [Gestión de Citas](https://www.perplexity.ai/search/actua-como-arquitecto-de-softw-u1j2YV6JTxieMapmlrSE0A#gesti%C3%B3n-de-citas)
-4. [Historial Clínico](https://www.perplexity.ai/search/actua-como-arquitecto-de-softw-u1j2YV6JTxieMapmlrSE0A#historial-cl%C3%ADnico)
-5. [Alertas y Síntomas](https://www.perplexity.ai/search/actua-como-arquitecto-de-softw-u1j2YV6JTxieMapmlrSE0A#alertas-y-s%C3%ADntomas)
-6. [Reportes](https://www.perplexity.ai/search/actua-como-arquitecto-de-softw-u1j2YV6JTxieMapmlrSE0A#reportes)
-7. [Notificaciones (SMS/WhatsApp)](https://www.perplexity.ai/search/actua-como-arquitecto-de-softw-u1j2YV6JTxieMapmlrSE0A#notificaciones-smswhatsapp)
-8. [Testing y Validación](https://www.perplexity.ai/search/actua-como-arquitecto-de-softw-u1j2YV6JTxieMapmlrSE0A#testing-y-validaci%C3%B3n)
+1. [Autenticación]
+2. [Gestión de Pacientes]
+3. [Gestión de Citas]
+4. [Historial Clínico]
+5. [Alertas y Síntomas]
+6. [Reportes]
+7. [Notificaciones (SMS/WhatsApp)]
 
 ---
 
